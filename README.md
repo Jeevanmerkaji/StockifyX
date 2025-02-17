@@ -29,7 +29,7 @@ A **C# and MS SQL Server-based desktop application** for managing **inventory, b
 
 ### 1️⃣ Clone the Repository  
 ```bash
-git clone (https://github.com/Jeevanmerkaji/StockifyX.git)
+git clone https://github.com/Jeevanmerkaji/StockifyX.git
 ```
 
 ### 2️⃣ Setup the Database  
