@@ -53,7 +53,7 @@ git clone https://github.com/your-username/repository-name.git
 🌟 **Star this repo** if you find it helpful!  
 🐛 **Found a bug?** Open an issue.  
 🤝 **Want to contribute?** Fork the repo and submit a pull request.  
-☕ **Support my work – [Buy Me a Coffee](buymeacoffee.com/jeevanms18)
+☕ Support my work – [Buy Me a Coffee](buymeacoffee.com/jeevanms18)
 
 ---
 
